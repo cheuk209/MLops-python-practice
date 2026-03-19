@@ -815,7 +815,7 @@ Sources:
 
 ---
 
-## Quick Reference: Relevance to Your AECOM AI Infra Project
+## Quick Reference: Relevance to Your gmail AI Infra Project
 
 Given your project context (North Europe, azurerm Terraform, thin wrapper modules, `appNet` subnet with App Service delegation):
 
